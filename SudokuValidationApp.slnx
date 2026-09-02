@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="SudokuValidationApp.Client/SudokuValidationApp.Client.esproj" DisplayName="sudokuvalidationapp.client">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="SudokuValidationApp.Server/SudokuValidationApp.Server.csproj" />
+  <Project Path="SudokuValidationCore/SudokuValidationCore.csproj" />
+  <Project Path="SudokuValidationInfrastructure/SudokuValidationInfrastructure.csproj" />
+</Solution>

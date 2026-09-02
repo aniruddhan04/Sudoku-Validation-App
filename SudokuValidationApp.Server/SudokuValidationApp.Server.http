@@ -1,0 +1,6 @@
+@SudokuValidationApp.Server_HostAddress = http://localhost:5078
+
+GET {{SudokuValidationApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
